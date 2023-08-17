@@ -6,7 +6,27 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 <!-- insertion marker -->
-## [0.1.0](https://github.com/GEANT/sensu_windows_checks/releases/tag/0.10.1.0) - 2023-08-17
+## [0.3](https://github.com/GEANT/sensu_windows_checks/releases/tag/0.3) - 2023-08-17
+
+<small>[Compare with 0.2](https://github.com/GEANT/sensu_windows_checks/compare/0.2...0.3)</small>
+
+### Added
+
+- add subdirectory to git LFS ([639a3c0](https://github.com/GEANT/sensu_windows_checks/commit/639a3c0467eaac3702f45ffeef91b67d8efa5b56) by Massimiliano Adamo).
+
+## [0.2](https://github.com/GEANT/sensu_windows_checks/releases/tag/0.2) - 2023-08-17
+
+<small>[Compare with 0.1](https://github.com/GEANT/sensu_windows_checks/compare/0.1...0.2)</small>
+
+### Added
+
+- add git LFS ([0f7806f](https://github.com/GEANT/sensu_windows_checks/commit/0f7806fecdc2e19a0715dd4dfc8ce198b26647b1) by Massimiliano Adamo).
+
+### Fixed
+
+- fix sha512sum file creation ([691770d](https://github.com/GEANT/sensu_windows_checks/commit/691770d25ec5e3297ebc7f892287b16ba002bb07) by Massimiliano Adamo).
+
+## [0.1](https://github.com/GEANT/sensu_windows_checks/releases/tag/0.1) - 2023-08-17
 
 <small>[Compare with first commit](https://github.com/GEANT/sensu_windows_checks/compare/4cb9e28248e6ce21ed936c09f6c80a8f8c348db0...0.1)</small>
 
