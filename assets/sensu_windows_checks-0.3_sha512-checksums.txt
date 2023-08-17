@@ -1,1 +1,0 @@
-bcda7ec066af18cfc2a3c778a62eadff9eb1a275ccb883e8587b2ec25e301fb4c1291a7e985d1f5af177a95ba0fe0a6b894415713cfa28da6054816f397ad700  assets/sensu_windows_checks-0.3.tar.gz
