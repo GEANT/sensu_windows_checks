@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 <!-- insertion marker -->
+## [0.4](https://github.com/GEANT/sensu_windows_checks/releases/tag/0.4) - 2023-08-17
+
+<small>[Compare with 0.3](https://github.com/GEANT/sensu_windows_checks/compare/0.3...0.4)</small>
+
+### Fixed
+
+- fix again sha512sum ([2964956](https://github.com/GEANT/sensu_windows_checks/commit/29649565187ed19bc77374b2a5dce0495160dfce) by Massimiliano Adamo).
+
 ## [0.3](https://github.com/GEANT/sensu_windows_checks/releases/tag/0.3) - 2023-08-17
 
 <small>[Compare with 0.2](https://github.com/GEANT/sensu_windows_checks/compare/0.2...0.3)</small>
