@@ -56,7 +56,7 @@ $Value = [System.Math]::Round(((($TotalMemory - $FreeMemory)/$TotalMemory)*100),
 $Time = DateTimeToUnixTimestamp -DateTime (Get-Date)
 
 Write-host "$EntityName.available $FreeMemoryPercent $Time"
-Write-host "$EntityName.memory.free $FreeMemory $Time"
+Write-host "$EntityName.free $FreeMemory $Time"
 Write-host "$EntityName.memory.total $TotalMemory $Time"
 Write-host "$EntityName.memory.used $UsedMemory $Time"
 Write-host "$EntityName.memory.percent.used $Value $Time"
