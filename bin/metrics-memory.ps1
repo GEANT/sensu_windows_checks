@@ -35,7 +35,7 @@ if ($null -eq $EntityName) {
     #$EntityName = [System.Net.Dns]::GetHostByName($env:computerName).HostName
     #$EntityName = $EntityName.Replace(".", "_").ToLower()
     $domainName = ${env:USERDNSDOMAIN}.Replace(".", "_")
-    $EntityName = "${env:computername}.${domainName}".ToLower()
+    $EntityName = "${env:computername}_${domainName}".ToLower()
 }
 
 $Memory = (Get-CimInstance -ClassName Win32_OperatingSystem)
